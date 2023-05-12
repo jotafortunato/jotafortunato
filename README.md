@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou @jotafortunato
 - 👀 interested in 
-- 🌱 C, Html, css.
+- 🌱 C, HTML, CSS, ORACLE APEX.
 - 📫 Contact me... fortunatojp_@hotmail.com
 
 <!---
